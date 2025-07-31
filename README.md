@@ -54,4 +54,9 @@ Correlation heatmaps and bar plots were used to visualize these patterns.
 
 ---
 
-# LINKEDIN : https://www.linkedin.com/in/akash-v-9249b2296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+## LINKEDIN :
+- https://www.linkedin.com/in/akash-v-9249b2296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+
+## ## 🎥💻VIDEO :
+-
+https://www.linkedin.com/posts/akash-v-9249b2296_datascience-internship-eda-activity-7353790094513700866-Beps?utm_source=share&utm_medium=member_android&rcm=ACoAAEex2awBF83VC-fxl3uuiPf2qnkwSc8A5_0
